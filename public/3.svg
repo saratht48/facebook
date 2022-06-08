@@ -1,0 +1,16 @@
+<svg id="Group_794" data-name="Group 794" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22.5" height="22.895" viewBox="0 0 22.5 22.895">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.132" x2="1.148" y2="1.128" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e9e9e9"/>
+      <stop offset="1" stop-color="#b5b5b5"/>
+    </linearGradient>
+  </defs>
+  <path id="Subtraction_52" data-name="Subtraction 52" d="M5.978,11.956a6.022,6.022,0,0,1-1.2-.121,5.946,5.946,0,0,1-2.138-.9A6,6,0,0,1,.47,8.305,5.948,5.948,0,0,1,.121,7.183a6.037,6.037,0,0,1,0-2.41,5.945,5.945,0,0,1,.9-2.138A6,6,0,0,1,3.651.47,5.948,5.948,0,0,1,4.773.121a6.037,6.037,0,0,1,2.41,0,5.945,5.945,0,0,1,2.138.9,6,6,0,0,1,2.166,2.63,5.948,5.948,0,0,1,.348,1.122,6.037,6.037,0,0,1,0,2.41,5.945,5.945,0,0,1-.9,2.138,6,6,0,0,1-2.63,2.166,5.948,5.948,0,0,1-1.122.348A6.022,6.022,0,0,1,5.978,11.956Zm0-10.316a4.338,4.338,0,1,0,4.338,4.338A4.343,4.343,0,0,0,5.978,1.64Z" transform="translate(5.272)" fill="#52baff"/>
+  <path id="Subtraction_54" data-name="Subtraction 54" d="M0,11.956H0v-1.64A4.309,4.309,0,0,0,3.066,9.044,4.309,4.309,0,0,0,4.338,5.978,4.343,4.343,0,0,0,0,1.64V0A6.02,6.02,0,0,1,1.2.121,5.948,5.948,0,0,1,2.327.47a5.981,5.981,0,0,1,1.016.551,6.023,6.023,0,0,1,.885.73,6.021,6.021,0,0,1,.73.885,5.978,5.978,0,0,1,.551,1.015,5.949,5.949,0,0,1,.348,1.122,6.021,6.021,0,0,1,.121,1.2,6.021,6.021,0,0,1-.121,1.2,5.949,5.949,0,0,1-.348,1.122,5.979,5.979,0,0,1-.551,1.015,6.024,6.024,0,0,1-.73.885,6.02,6.02,0,0,1-.885.73,5.975,5.975,0,0,1-1.016.551,5.945,5.945,0,0,1-1.122.348A6.021,6.021,0,0,1,0,11.956Z" transform="translate(11.25)" fill="#2e82ff"/>
+  <path id="Path_437" data-name="Path 437" d="M-17270.41-16749h-9.125l-2.125,16.684h11.25Z" transform="translate(17281.66 16755.211)" fill="#f5f5f5"/>
+  <path id="Path_438" data-name="Path 438" d="M-17281.66-16749h9.123l2.127,16.684h-11.25Z" transform="translate(17292.91 16755.211)" fill="url(#linear-gradient)"/>
+  <rect id="Rectangle_2018" data-name="Rectangle 2018" width="9.964" height="3.985" transform="translate(6.269 11.957)" fill="#98d4fc"/>
+  <rect id="Rectangle_2020" data-name="Rectangle 2020" width="4.982" height="3.985" transform="translate(11.25 11.957)" fill="#44a8eb"/>
+  <rect id="Rectangle_2019" data-name="Rectangle 2019" width="5.978" height="0.996" transform="translate(8.262 16.938)" fill="#52baff"/>
+  <rect id="Rectangle_2021" data-name="Rectangle 2021" width="2.989" height="0.996" transform="translate(11.25 16.938)" fill="#2e82ff"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg id="Dashboard" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.672" height="21.674" viewBox="0 0 21.672 21.674">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.061" y1="-0.312" x2="0.966" y2="1.783" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c1f070"/>
+      <stop offset="1" stop-color="#617838"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.305" y1="0.12" x2="2.356" y2="1.575" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#258dc9"/>
+      <stop offset="1" stop-color="#003452"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_422" data-name="Path 422" d="M2.709,0H7.45a2.709,2.709,0,0,1,2.709,2.709V4.741A2.709,2.709,0,0,1,7.45,7.45H2.709A2.709,2.709,0,0,1,0,4.741V2.709A2.709,2.709,0,0,1,2.709,0Z" transform="translate(0)" fill="url(#linear-gradient)"/>
+  <path id="Path_420" data-name="Path 420" d="M2.709,0H7.45a2.709,2.709,0,0,1,2.709,2.709v7.45A2.709,2.709,0,0,1,7.45,12.868H2.709A2.709,2.709,0,0,1,0,10.159V2.709A2.709,2.709,0,0,1,2.709,0Z" transform="translate(11.512)" fill="url(#linear-gradient-2)"/>
+  <path id="Path_423" data-name="Path 423" d="M2.709,0H7.45a2.709,2.709,0,0,1,2.709,2.709v7.45A2.709,2.709,0,0,1,7.45,12.868H2.709A2.709,2.709,0,0,1,0,10.159V2.709A2.709,2.709,0,0,1,2.709,0Z" transform="translate(0 8.804)" fill="url(#linear-gradient-2)"/>
+  <path id="Path_421" data-name="Path 421" d="M2.709,0H7.45a2.709,2.709,0,0,1,2.709,2.709V4.741A2.709,2.709,0,0,1,7.45,7.45H2.709A2.709,2.709,0,0,1,0,4.741V2.709A2.709,2.709,0,0,1,2.709,0Z" transform="translate(11.512 14.223)" fill="url(#linear-gradient)"/>
+</svg>

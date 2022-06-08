@@ -1,0 +1,138 @@
+*{
+    box-sizing: border-box!important;
+    
+}
+.d-flex{
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+}
+.user{
+    width:50px;
+    height: 41px;
+    border-radius: 50%;
+    background-color: #EFEFEF;
+}
+textarea{
+    margin-left: 5px;
+}
+
+.box{
+    width:400px;
+    position: relative;
+ 
+    background-color: #fff;
+    border-radius: 6px;
+
+}
+.displayflex{
+    display:flex;
+    justify-content: flex-end;
+    align-items:center;
+}
+.imagecover{
+    width:100%;
+    height:auto;
+}
+.imagecover img{
+    width:100%;
+    height:auto;
+}
+.position{
+    position:absolute;
+    background-color:#fff;
+    border:1px solid #EFEFEF;
+    top:240px;
+    z-index:1;
+    width: 219px;
+    margin-left: 4px;
+}
+.gif{
+    width:100%;
+    
+}
+.gifs{
+    position:relative;
+    z-index:1;
+}
+.gif img{
+    display:block;
+  
+    width:75%;
+    height:180px;
+    margin:0px auto;
+}
+.figure{
+    width:100%;
+    margin:0px auto;
+    padding-left:10px;
+}
+.top-box{
+    display:flex;
+    align-items:center;
+}
+.iconphoto{
+    position:absolute;
+    top: -2px;
+    left: -20px;
+
+}
+.icon1{
+    display:flex;
+    justify-content:flex-end;
+    position: relative;
+    left: -4px;
+    top: 0px;
+}
+.content{
+    font-size:14px;
+    color:#000;
+    position:relative;
+}
+.icontwo{
+    position:absolute;
+    left: -25px;
+    top: -2px;
+
+}
+.contents{
+    font-size:14px;
+    color:#000;
+    position:relative;
+   margin:0px auto;
+}
+.contentbox{
+    padding:10px;
+    display:flex;
+    
+}
+.form-control{
+    border-radius: 8px;
+}
+.innerbox{
+    width: 95%;
+    margin: 0px auto;
+    background-color: #EFEFEF;
+    border-radius: 8px;
+    height: 30px;
+    padding-left: 40px;
+    padding-top: 6px;
+   opacity:0.6;
+}
+.innerbox:hover{
+    opacity:1;
+}
+.button{
+    background-color:#fff;
+    color:#000;
+    width:90px;
+    font-size: 13px;
+}
+.buttonpost{
+    background-color:blue;
+    color:#fff;
+    width: 69px;
+    font-size: 13px;
+    margin-left: 9px;
+}

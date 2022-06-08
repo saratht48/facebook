@@ -1,0 +1,40 @@
+<svg id="Group_788" data-name="Group 788" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30.701" height="27.93" viewBox="0 0 30.701 27.93">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="1.807" y2="1.429" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b85e00"/>
+      <stop offset="1" stop-color="#5c2f00"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="2.07" y2="2.226" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d4952d"/>
+      <stop offset="1" stop-color="#6a4b17"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="1.419" y2="2.746" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f3bf66"/>
+      <stop offset="1" stop-color="#7a6033"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x2="1.219" y2="3.896" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-5" x1="0.242" y1="-0.177" x2="1.382" y2="1.457" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#83e470"/>
+      <stop offset="1" stop-color="#427238"/>
+    </linearGradient>
+    <filter id="Icon_awesome-check" x="6.889" y="5.596" width="23.813" height="22.334" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Path_433" data-name="Path 433" d="M0,0H9.639V14.278L0,17.37Z" transform="translate(12.061 0.103)" fill="url(#linear-gradient)"/>
+  <path id="Path_432" data-name="Path 432" d="M0,0H9.639V17.37L0,14.793Z" transform="translate(2.424 0.103)" fill="url(#linear-gradient-2)"/>
+  <g id="Group_761" data-name="Group 761" transform="translate(0 0)">
+    <path id="Path_430" data-name="Path 430" d="M-17030-16743l2.432,5.871h9.625l-2.449-5.871Z" transform="translate(17042.063 16743)" fill="url(#linear-gradient-3)"/>
+    <path id="Path_431" data-name="Path 431" d="M-17264-16736.055s9.625.188,9.586,0,2.455-5.814,2.455-5.814h-9.588Z" transform="translate(17264 16741.928)" fill="url(#linear-gradient-4)"/>
+  </g>
+  <path id="Path_434" data-name="Path 434" d="M-17165.391-16530.635l1.238.275v-1.754l-1.238-.273Z" transform="translate(17170.473 16543.346)" fill="#f3bf66"/>
+  <circle id="Ellipse_313" data-name="Ellipse 313" cx="5.354" cy="5.354" r="5.354" transform="translate(13.089 8.412)" fill="url(#linear-gradient-5)"/>
+  <path id="Subtraction_50" data-name="Subtraction 50" d="M0,10.709V0A5.321,5.321,0,0,1,2.084.421a5.355,5.355,0,0,1,.91.494,5.393,5.393,0,0,1,.792.654,5.393,5.393,0,0,1,.654.792,5.355,5.355,0,0,1,.494.91,5.372,5.372,0,0,1,0,4.168,5.355,5.355,0,0,1-.494.91,5.393,5.393,0,0,1-.654.792,5.393,5.393,0,0,1-.792.654,5.355,5.355,0,0,1-.91.494A5.321,5.321,0,0,1,0,10.709Z" transform="translate(18.442 8.412)" fill="#06a25a"/>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Icon_awesome-check)">
+    <path id="Icon_awesome-check-2" data-name="Icon awesome-check" d="M1.974,8.827.085,6.938a.291.291,0,0,1,0-.411L.5,6.116a.291.291,0,0,1,.411,0L2.18,7.388,4.906,4.662a.291.291,0,0,1,.411,0l.411.411a.291.291,0,0,1,0,.411L2.385,8.827A.291.291,0,0,1,1.974,8.827Z" transform="translate(15.89 7.02)" fill="#fff"/>
+  </g>
+</svg>
