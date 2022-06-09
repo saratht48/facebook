@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="19" viewBox="0 0 24 19">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2028" data-name="Rectangle 2028" width="24" height="12" transform="translate(-0.385 -0.232)" fill="#179e83"/>
+    </clipPath>
+  </defs>
+  <g id="Group_789" data-name="Group 789" transform="translate(0.385 0.309)">
+    <rect id="Rectangle_2025" data-name="Rectangle 2025" width="24" height="12" transform="translate(-0.385 6.691)" fill="#179e83"/>
+    <rect id="Rectangle_2027" data-name="Rectangle 2027" width="11" height="12" transform="translate(12.615 6.691)" fill="#108279"/>
+    <g id="Mask_Group_34" data-name="Mask Group 34" transform="translate(0 6.923)" clip-path="url(#clip-path)">
+      <circle id="Ellipse_320" data-name="Ellipse 320" cx="3.5" cy="3.5" r="3.5" transform="translate(19.615 -3.232)" fill="#179e83"/>
+      <circle id="Ellipse_321" data-name="Ellipse 321" cx="3.5" cy="3.5" r="3.5" transform="translate(-3.385 8.768)" fill="#1dd575"/>
+      <circle id="Ellipse_325" data-name="Ellipse 325" cx="3.5" cy="3.5" r="3.5" transform="translate(-3.385 -3.232)" fill="#1dd575"/>
+      <circle id="Ellipse_322" data-name="Ellipse 322" cx="3.5" cy="3.5" r="3.5" transform="translate(19.615 8.768)" fill="#179e83"/>
+    </g>
+    <circle id="Ellipse_323" data-name="Ellipse 323" cx="2.5" cy="2.5" r="2.5" transform="translate(9.615 10.691)" fill="#1dd575"/>
+    <path id="Subtraction_55" data-name="Subtraction 55" d="M0,5H0V0A2.787,2.787,0,0,1,3,2.5,2.788,2.788,0,0,1,0,5Z" transform="translate(11.615 10.691)" fill="#179e83"/>
+    <rect id="Rectangle_2024" data-name="Rectangle 2024" width="13" height="15" transform="translate(-0.385 -0.309)" fill="#1c5e74"/>
+    <rect id="Rectangle_2026" data-name="Rectangle 2026" width="7" height="15" transform="translate(5.615 -0.309)" fill="#0a3c53"/>
+    <rect id="Rectangle_2029" data-name="Rectangle 2029" width="9" height="2" transform="translate(1.615 2.691)" fill="#fff"/>
+    <rect id="Rectangle_2030" data-name="Rectangle 2030" width="2" height="1" transform="translate(1.615 5.691)" fill="#47b8f8"/>
+    <rect id="Rectangle_2035" data-name="Rectangle 2035" width="2" height="2" transform="translate(1.615 7.691)" fill="#47b8f8"/>
+    <rect id="Rectangle_2039" data-name="Rectangle 2039" width="2" height="1" transform="translate(1.615 10.691)" fill="#47b8f8"/>
+    <rect id="Rectangle_2031" data-name="Rectangle 2031" width="1" height="1" transform="translate(5.615 5.691)" fill="#47b8f8"/>
+    <rect id="Rectangle_2037" data-name="Rectangle 2037" width="1" height="2" transform="translate(5.615 7.691)" fill="#47b8f8"/>
+    <rect id="Rectangle_2041" data-name="Rectangle 2041" width="1" height="1" transform="translate(5.615 10.691)" fill="#47b8f8"/>
+    <rect id="Rectangle_2033" data-name="Rectangle 2033" width="2" height="1" transform="translate(8.615 5.691)" fill="#0078bc"/>
+    <rect id="Rectangle_2036" data-name="Rectangle 2036" width="2" height="2" transform="translate(8.615 7.691)" fill="#0078bc"/>
+    <rect id="Rectangle_2040" data-name="Rectangle 2040" width="2" height="1" transform="translate(8.615 10.691)" fill="#b70888"/>
+  </g>
+</svg>

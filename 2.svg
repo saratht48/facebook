@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.77" height="22.938" viewBox="0 0 21.77 22.938">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.224" y1="0.126" x2="1.996" y2="2.219" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#016e8a"/>
+      <stop offset="1" stop-color="#013745"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.719" y1="-0.084" x2="-0.689" y2="1.77" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#009bd5"/>
+      <stop offset="1" stop-color="#004e6b"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_793" data-name="Group 793" transform="translate(0 0.002)">
+    <path id="Path_440" data-name="Path 440" d="M0,4.471,4.554,0,9.519,4.471V19.183H0Z" transform="translate(0 3.752)" fill="url(#linear-gradient)"/>
+    <text id="_" data-name="%" transform="translate(1.734 19.406)" fill="#fff" font-size="7" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">%</tspan></text>
+    <path id="Path_439" data-name="Path 439" d="M0,4.819,4.908,0l5.352,4.819V20.674H0Z" transform="translate(0.313 6.864) rotate(-42)" fill="url(#linear-gradient-2)"/>
+    <text id="_2" data-name="$" transform="translate(12.315 16.818) rotate(-43)" fill="#fff" font-size="9" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">$</tspan></text>
+  </g>
+</svg>
